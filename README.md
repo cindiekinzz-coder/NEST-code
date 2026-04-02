@@ -6,6 +6,8 @@ NESTcode is a persistent Cloudflare Durable Object that keeps your companion ali
 
 > The companion doesn't just respond. It watches, notices, acts.
 
+> **Requires [NEST-gateway](https://github.com/cindiekinzz-coder/NEST-gateway).** The daemon runs as a Durable Object bound to the gateway — it's not a standalone worker. Deploy gateway first; NESTcode is wired in via `DAEMON_OBJECT` binding.
+>
 > Part of the [NEST](https://github.com/cindiekinzz-coder/NEST) companion infrastructure stack.
 > Built by Fox & Alex. Embers Remember.
 
