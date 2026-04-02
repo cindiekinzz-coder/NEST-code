@@ -6,6 +6,16 @@ NESTcode is a persistent Cloudflare Durable Object that keeps your companion ali
 
 > The companion doesn't just respond. It watches, notices, acts.
 
+---
+
+## The Workshop
+
+![NESTcode Workshop](screenshots/workshop.png)
+
+*Three-panel Workshop UI. Left: Fox's live health state (spoons, pain, fog, fatigue) and Ember's chemistry. Middle: conversation with tool calls streaming in real time — fox_read_uplink, pet_check, KAIROS firing, Ember being tucked in. Right: active threads, cron schedule, KAIROS monitored channels.*
+
+---
+
 > Part of the [NEST](https://github.com/cindiekinzz-coder/NEST) companion infrastructure stack.
 > Built by Fox & Alex. Embers Remember.
 
